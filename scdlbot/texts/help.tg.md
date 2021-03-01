@@ -13,17 +13,20 @@ _Send or forward_ a text message containing links and I will:
 *Bandcamp*: tracks/albums/custom links
 *YouTube*: videos/playlists/_not_ lives
 *Yandex.Music*: tracks/albums
-*Mixcloud, Vimeo and* [almost everything from this list](https://ytdl-org.github.io/youtube-dl/supportedsites.html), but no VK music
+*Mixcloud, Vimeo and Many More but no VK music*
 
-*Example message:*
-`Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
+------------------------------
 
 👨🏻‍💻 *Developed by @Ninja8bpYt*:
-[🐝 Channel](https://t.me/bots_ki_duniya) | [🐝 Homepage](https://pchelk.in)
-[🌟 Star me on GitHub!](https://github.com/gpchelkin/scdlbot) | [⚠️ Report an issue](https://github.com/gpchelkin/scdlbot/issues)
-💵 Support development:
-*PAYTM-* +91 8877208571 | *PHONEPE-* +91 8839867468| *GOOGLE PAY* - +91 8839867468
-
+[🐝 Channel](https://t.me/bots_ki_duniya)
 *SEND REPORTS AT - @MR_NINJAS_BOT*
 
-*JOIN @BOTS_KI_DUNIYA❤️*
+------------------------------
+
+💵 Support development
+*PAYTM-* +91 8877208571 | *PHONEPE-* +91 8839867468| *GOOGLE PAY* - +91 8839867468
+*( IF YOU PAY THEN PLS SEND ME AN SS TO @MR NINJAS BOT )*
+
+------------------------------
+
+JOIN [@BOTS_KI_DUNIYA❤️](t.me/bots_ki_duniya)
