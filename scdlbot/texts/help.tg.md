@@ -1,4 +1,4 @@
-*Hi{message.chat.first_name}!* I download and send audios from videos/tracks/sets/albums in *MP3 128 kbps* with tags and artwork. Files over 50 MB are split into parts due to Telegram Bot API limit.
+*Hi Welcome To SC-YT BOT!* I download and send audios from videos/tracks/sets/albums in *MP3 128 kbps* with tags and artwork. Files over 50 MB are split into parts due to Telegram Bot API limit.
 
 *Usage:*
 _Send or forward_ a text message containing links and I will:
