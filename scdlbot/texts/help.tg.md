@@ -18,7 +18,6 @@ _Send or forward_ a text message containing links and I will:
 ------------------------------
 
 👨🏻‍💻 *Developed by @Ninja8bpYt*:
-[🐝 Channel](https://t.me/bots_ki_duniya)
 *SEND REPORTS AT - @MR_NINJAS_BOT*
 
 ------------------------------
@@ -29,4 +28,4 @@ _Send or forward_ a text message containing links and I will:
 
 ------------------------------
 
-JOIN [@BOTS_KI_DUNIYA❤️](https://t.me/bots_ki_duniya)
+*JOIN [@BOTS_KI_DUNIYA](https://t.me/bots_ki_duniya)❤️*
