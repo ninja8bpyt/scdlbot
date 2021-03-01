@@ -23,9 +23,9 @@ _Send or forward_ a text message containing links and I will:
 ------------------------------
 
 💵 Support development
-*PAYTM-* +91 8877208571 | *PHONEPE-* +91 8839867468| *GOOGLE PAY* - +91 8839867468
+*PAYTM-* '+91 8877208571' | *PHONEPE-* '+91 8839867468'| *GOOGLE PAY* - '+91 8839867468'
 *(IF YOU PAY THEN PLS SEND ME AN SS TO @MR_NINJAS_BOT)*
 
 ------------------------------
 
-*JOIN [@BOTS_KI_DUNIYA](https://t.me/bots_ki_duniya)❤️*
+*JOIN [@BOTS_KI_DUNIYA]❤️*
