@@ -29,4 +29,4 @@ _Send or forward_ a text message containing links and I will:
 
 ------------------------------
 
-JOIN [@BOTS_KI_DUNIYA❤️](t.me/bots_ki_duniya)
+JOIN [@BOTS_KI_DUNIYA❤️](https://t.me/bots_ki_duniya)
